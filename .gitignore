@@ -1,3 +1,4 @@
 *.npy
 *.mat
+.ipynb_checkpoints/*
 
